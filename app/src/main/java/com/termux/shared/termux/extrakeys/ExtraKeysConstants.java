@@ -27,7 +27,7 @@ public class ExtraKeysConstants {
         put("INS", KeyEvent.KEYCODE_INSERT);
         put("DEL", KeyEvent.KEYCODE_FORWARD_DEL);
         put("BKSP", KeyEvent.KEYCODE_DEL);
-        put("UP", KeyEvent.KEYCODE_DPAD_UP);
+        put("UP", KeyEvent.KEYCODE_W);
         put("LEFT", KeyEvent.KEYCODE_DPAD_LEFT);
         put("RIGHT", KeyEvent.KEYCODE_DPAD_RIGHT);
         put("DOWN", KeyEvent.KEYCODE_DPAD_DOWN);
